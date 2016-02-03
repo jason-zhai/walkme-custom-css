@@ -62,6 +62,25 @@ a.walkme-custom-bbcode-wt-link.walkme-action-start-wt:hover {
 .walkme-menu.walkme-penguin.walkme-theme-black-blue .walkme-search-box.walkme-override {
     border-color: #002d4a !important;
 }
+
+.walkme-menu.walkme-penguin .walkme-main .walkme-title.walkme-override {
+    font-size: 20px !important;
+    margin-top: 10px !important;
+}
+.walkme-menu.walkme-penguin.walkme-theme-black-blue .walkme-tabs .walkme-tab-button-text.walkme-override {
+    color: #999 !important;
+}
+.walkme-menu.walkme-penguin.walkme-theme-black-blue .walkme-deployables-list.walkme-override {
+    background-color: #002d4a !important;
+    border-color: #02243a !important;
+}
+.walkme-player.walkme-colorado.walkme-theme-black-blue .walkme-in-wrapper.walkme-override {
+    background-color: #002d4a !important;
+}
+.walkme-menu.walkme-penguin.walkme-theme-black-blue .walkme-activatable.walkme-override {
+    border-color: #02243a !important;
+}
+
 /* Enable Bullet-style Formatting */
 
 .walkme-custom-balloon-content ul li {
