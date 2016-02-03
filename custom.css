@@ -74,7 +74,8 @@ a.walkme-custom-bbcode-wt-link.walkme-action-start-wt:hover {
     background-color: #002d4a !important;
     border-color: #02243a !important;
 }
-.walkme-player.walkme-colorado.walkme-theme-black-blue .walkme-in-wrapper.walkme-override {
+.walkme-player.walkme-colorado.walkme-theme-black-blue .walkme-in-wrapper.walkme-override,
+.walkme-player.walkme-colorado.walkme-theme-black-blue .walkme-in-wrapper .walkme-title.walkme-override {
     background-color: #002d4a !important;
 }
 .walkme-menu.walkme-penguin.walkme-theme-black-blue .walkme-activatable.walkme-override {
