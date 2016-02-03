@@ -1,0 +1,74 @@
+.walkme-custom-balloon-title {
+    font-size: 16px !important;
+}
+.walkme-custom-balloon-content {
+    font-size: 14px !important;
+}
+.walkme-menu.walkme-override.walkme-css-reset.walkme-direction-ltr .walkme-main.walkme-override.walkme-css-reset {
+    border-left: 0px solid #0071b9 !important;
+}
+.walkme-custom-balloon-close-button {
+    font-size: 16px !important;
+}
+.walkme-player.walkme-colorado.walkme-theme-black-blue * .walkme-question-mark.walkme-override.walkme-css-reset {
+    background-color: #0071b9 !important;
+}
+.walkme-menu.walkme-penguin.walkme-theme-black-blue .walkme-search-box-button.walkme-override.walkme-css-reset {
+    background-color: #0071b9 !important;
+}
+.walkme-menu.walkme-penguin.walkme-theme-black-blue .walkme-search-box-button.walkme-override.walkme-css-reset:hover {
+    background-color: #002d4a !important;
+}
+
+.walkme-custom-balloon-subtext {
+    font-size: 11px !important;
+}
+.walkme-custom-balloon-button-text {
+    font-size: 11px !important;
+}
+
+.walkme-menu.walkme-penguin.walkme-theme-black-blue .walkme-tabs .walkme-tab-button.walkme-tab-button-selected .walkme-tab-button-image.walkme-css-reset,
+.walkme-menu.walkme-penguin.walkme-theme-black-blue .walkme-deployable.walkme-activatable.walkme-walkthru .walkme-deployable-icon, .walkme-menu.walkme-penguin.walkme-theme-black-blue .walkme-activatable.walkme-activatable.walkme-walkthru .walkme-deployable-icon.walkme-css-reset,
+.walkme-menu.walkme-penguin.walkme-theme-black-blue .walkme-deployable.walkme-task.walkme-uncompleted .walkme-deployable-icon, .walkme-menu.walkme-penguin.walkme-theme-black-blue .walkme-activatable.walkme-task.walkme-uncompleted .walkme-deployable-icon.walkme-css-reset {
+    color: #0071b9 !important;
+}
+
+.walkme-menu.walkme-penguin.walkme-theme-black-blue .walkme-main.walkme-css-reset {
+    background-color: #00436F !important;
+}
+
+a.walkme-custom-bbcode-link {
+        color: #99C6E3 !important;
+}
+a.walkme-custom-bbcode-link:hover {
+    color: #E6F1F8 !important;
+}
+
+a.walkme-custom-bbcode-wt-link.walkme-action-start-wt {
+    color: #99C6E3 !important;
+}
+a.walkme-custom-bbcode-wt-link.walkme-action-start-wt:hover {
+    color: #E6F1F8 !important;
+}
+
+.walkme-survey-answer-title {
+    color: #fff !important;
+}
+.walkme-menu.walkme-penguin.walkme-theme-black-blue .walkme-activatable.walkme-override,
+.walkme-menu.walkme-penguin.walkme-theme-black-blue .walkme-search-box.walkme-override,
+.walkme-menu.walkme-penguin.walkme-theme-black-blue .walkme-tabs .walkme-tab-button.walkme-tab-button-selected.walkme-override {
+    background-color: #002d4a !important;
+}
+.walkme-menu.walkme-penguin.walkme-theme-black-blue .walkme-search-box.walkme-override {
+    border-color: #002d4a !important;
+}
+/* Enable Bullet-style Formatting */
+
+.walkme-custom-balloon-content ul li {
+/*padding-left: 22px !important;
+text-indent: -12px !important;
+list-style: disc outside none !important;*/
+    list-style: inside !important;
+}
+
+/* End Bullet-style Formatting */
